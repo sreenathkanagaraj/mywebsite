@@ -2599,8 +2599,8 @@ img {
 }
 
 .ux-header-background.ux-header-background-2 {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6))), url('../images/food-thomas-bosc-7.jpg');
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/food-thomas-bosc-7.jpg');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6))), url('../images/blog-header.jpg');
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/blog-header.jpg');
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
     background-repeat: repeat, no-repeat;
@@ -2769,7 +2769,7 @@ img {
 }
 
 .ux-article-image-background.ux-article-image-picture {
-    background-image: url('../images/food-thomas-bosc-6.jpg');
+    background-image: url('../images/swans-precedence.webp');
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
