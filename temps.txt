@@ -3,7 +3,7 @@ to do
 language change
 party& travel  // video change
 trading second tab // video change
-
+check line 944 - 950
 one blink log and image addition as projects
 disable vine motto
 
