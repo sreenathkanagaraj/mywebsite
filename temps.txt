@@ -1,4 +1,4 @@
-to do 
+desktop  // to do 
 
 language change
 party& travel  // video change
@@ -6,8 +6,18 @@ trading second tab // video change
 check line 944 - 950
 one blink log and image addition as projects
 disable vine motto
+connect with me svg icons not working // i want them to be aligned each in from lleft to right and move as per the responsiveness
 
 done
 
 blogging writing //  tab completion // add the href link to the blogger phase  done
 find the line 537 - 588 !!!  done
+
+mobile view // todo
+have to clean and clear many stufs  hover effect on the first page intro photo isnot wrking
+trading page there is no proper turnups of the ui and also the cancel button play effect is not woking
+one blink completely not working
+vine moving hover is not working
+and also the connect link is not hovering the imagex
+well all these doesnt work in the og website to
+but i want them cleared and working properly
