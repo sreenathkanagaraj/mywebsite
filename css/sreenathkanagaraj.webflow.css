@@ -1022,13 +1022,11 @@ img {
   margin-bottom: 0px;
   padding: 20px;
   border-radius: 30px;
-  background-image: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(#3e7fff),
-    to(#50a8ff)
-  );
+  background-image: -webkit-gradient(linear,
+      left top,
+      left bottom,
+      from(#3e7fff),
+      to(#50a8ff));
   background-image: linear-gradient(180deg, #3e7fff, #50a8ff);
   box-shadow: 0 0 50px 2px rgba(103, 154, 204, 0.3);
   color: #fff;
@@ -1147,13 +1145,11 @@ img {
   bottom: auto;
   width: 100%;
   height: 20vh;
-  background-image: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(#0b0b0d),
-    to(rgba(12, 12, 18, 0))
-  );
+  background-image: -webkit-gradient(linear,
+      left top,
+      left bottom,
+      from(#0b0b0d),
+      to(rgba(12, 12, 18, 0)));
   background-image: linear-gradient(180deg, #0b0b0d, rgba(12, 12, 18, 0));
 }
 
@@ -1167,13 +1163,11 @@ img {
   right: 0%;
   bottom: 0%;
   height: 20vh;
-  background-image: -webkit-gradient(
-    linear,
-    left bottom,
-    left top,
-    from(#0b0b0d),
-    to(rgba(12, 12, 18, 0))
-  );
+  background-image: -webkit-gradient(linear,
+      left bottom,
+      left top,
+      from(#0b0b0d),
+      to(rgba(12, 12, 18, 0)));
   background-image: linear-gradient(0deg, #0b0b0d, rgba(12, 12, 18, 0));
 }
 
@@ -2617,19 +2611,15 @@ img {
 }
 
 .ux-header-background.ux-header-background-2 {
-  background-image: -webkit-gradient(
-      linear,
+  background-image: -webkit-gradient(linear,
       left top,
       left bottom,
       from(rgba(0, 0, 0, 0.6)),
-      to(rgba(0, 0, 0, 0.6))
-    ),
+      to(rgba(0, 0, 0, 0.6))),
     url("../images/blog-header.jpg");
-  background-image: linear-gradient(
-      180deg,
+  background-image: linear-gradient(180deg,
       rgba(0, 0, 0, 0.6),
-      rgba(0, 0, 0, 0.6)
-    ),
+      rgba(0, 0, 0, 0.6)),
     url("../images/blog-header.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
@@ -3982,13 +3972,11 @@ img {
   border-width: 2px;
   border-color: #0b0b0d;
   border-radius: 50%;
-  background-image: -webkit-gradient(
-    linear,
-    left top,
-    right top,
-    from(#3f80ff),
-    to(#50a8ff)
-  );
+  background-image: -webkit-gradient(linear,
+      left top,
+      right top,
+      from(#3f80ff),
+      to(#50a8ff));
   background-image: linear-gradient(90deg, #3f80ff, #50a8ff);
   box-shadow: 0 0 30px 0 rgba(62, 127, 255, 0.5);
 }
@@ -4184,7 +4172,7 @@ img {
 }
 
 .skill-work-mbp-point.skill-work-mbp-point-2 {
-  left: 1%;
+  left: 5%;
   top: -3%;
   z-index: 1;
 }
@@ -4867,19 +4855,15 @@ img {
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
-  background-image: -webkit-gradient(
-      linear,
+  background-image: -webkit-gradient(linear,
       left top,
       left bottom,
       from(rgba(0, 0, 0, 0.5)),
-      to(rgba(0, 0, 0, 0.5))
-    ),
+      to(rgba(0, 0, 0, 0.5))),
     url("../images/bim-article-responsive-1.jpg");
-  background-image: linear-gradient(
-      180deg,
+  background-image: linear-gradient(180deg,
       rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0.5)
-    ),
+      rgba(0, 0, 0, 0.5)),
     url("../images/bim-article-responsive-1.jpg");
   background-position: 0px 0px, 50% 62%;
   background-size: auto, cover;
@@ -5239,13 +5223,11 @@ img {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(#0b0b0d),
-    color-stop(80%, hsla(0, 0%, 100%, 0))
-  );
+  background-image: -webkit-gradient(linear,
+      left top,
+      left bottom,
+      from(#0b0b0d),
+      color-stop(80%, hsla(0, 0%, 100%, 0)));
   background-image: linear-gradient(180deg, #0b0b0d, hsla(0, 0%, 100%, 0) 80%);
 }
 
@@ -5307,13 +5289,11 @@ img {
   left: -100%;
   width: 200%;
   height: 100%;
-  background-image: -webkit-gradient(
-    linear,
-    left top,
-    right top,
-    from(rgba(11, 11, 13, 0)),
-    color-stop(50%, #0b0b0d)
-  );
+  background-image: -webkit-gradient(linear,
+      left top,
+      right top,
+      from(rgba(11, 11, 13, 0)),
+      color-stop(50%, #0b0b0d));
   background-image: linear-gradient(90deg, rgba(11, 11, 13, 0), #0b0b0d 50%);
   -webkit-transform-origin: 100% 50%;
   -ms-transform-origin: 100% 50%;
@@ -5784,13 +5764,11 @@ img {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 10px;
-  background-image: -webkit-gradient(
-    linear,
-    left top,
-    right top,
-    from(#3e7fff),
-    to(#5ca3f7)
-  );
+  background-image: -webkit-gradient(linear,
+      left top,
+      right top,
+      from(#3e7fff),
+      to(#5ca3f7));
   background-image: linear-gradient(90deg, #3e7fff, #5ca3f7);
   box-shadow: 0 0 30px 0 rgba(62, 127, 255, 0.3);
   -webkit-transform-origin: 0% 50%;
@@ -5800,13 +5778,11 @@ img {
 }
 
 .content-accordeon-content-task.content-accordeon-content-task-instagram {
-  background-image: -webkit-gradient(
-    linear,
-    left top,
-    right top,
-    from(#dd2a7b),
-    to(#ff3f62)
-  );
+  background-image: -webkit-gradient(linear,
+      left top,
+      right top,
+      from(#dd2a7b),
+      to(#ff3f62));
   background-image: linear-gradient(90deg, #dd2a7b, #ff3f62);
   box-shadow: 0 0 30px 0 rgba(213, 76, 128, 0.2);
 }
@@ -7425,8 +7401,7 @@ img {
   .chrome {
     min-height: auto;
     min-width: auto;
-    -webkit-transform: rotateX(0deg) rotateY(-20deg) rotateZ(0deg)
-      perspective(1500px);
+    -webkit-transform: rotateX(0deg) rotateY(-20deg) rotateZ(0deg) perspective(1500px);
     transform: rotateX(0deg) rotateY(-20deg) rotateZ(0deg) perspective(1500px);
   }
 
@@ -8020,10 +7995,8 @@ img {
     height: auto;
     max-height: 500px;
     min-height: 450px;
-    -webkit-transform: translate3d(0px, 20px, -90px) rotateX(0deg)
-      rotateY(-20deg) rotateZ(0deg) perspective(1500px);
-    transform: translate3d(0px, 20px, -90px) rotateX(0deg) rotateY(-20deg)
-      rotateZ(0deg) perspective(1500px);
+    -webkit-transform: translate3d(0px, 20px, -90px) rotateX(0deg) rotateY(-20deg) rotateZ(0deg) perspective(1500px);
+    transform: translate3d(0px, 20px, -90px) rotateX(0deg) rotateY(-20deg) rotateZ(0deg) perspective(1500px);
   }
 
   .chrome-system-buttons {
