@@ -1,19 +1,21 @@
 desktop  // to do 
 
-party& travel  // video change
-trading second tab // video change
-one blink log and image addition as projects
+have to clear the JS part
 
 done
+
 language change
 check line 944 - 950
 connect with me svg icons not working // i want them to be aligned each in from lleft to right and move as per the responsiveness
 disable vine motto
+party& travel  // video change
+trading second tab // video change
+one blink log and image addition as projects
 
 blogging writing //  tab completion // add the href link to the blogger phase  done
 find the line 537 - 588 !!!  done
 
-mobile view // todo
+mobile view // done
 have to clean and clear many stufs  hover effect on the first page intro photo isnot wrking
 trading page there is no proper turnups of the ui and also the cancel button play effect is not woking
 one blink completely not working
