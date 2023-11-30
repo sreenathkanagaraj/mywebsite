@@ -23,3 +23,17 @@ vine moving hover is not working
 and also the connect link is not hovering the imagex
 well all these doesnt work in the og website to
 but i want them cleared and working properly
+
+
+Sign in to your Google Analytics account.
+Click Admin, and navigate to the desired account/property/view.
+In the PROPERTY column, click Tracking Info > Tracking Code. Your Tracking ID is displayed at the top of the page.
+Go to Google Tag Manager and create a new account or select an existing one.
+Create a new container for your website.
+After the container is created, you'll get a code snippet that you need to add to your website. It should be added immediately after the opening <body> tag on each page of your site.
+In the Google Tag Manager interface, click on "Add a new tag".
+Choose the tag type "Google Analytics: Universal Analytics".
+Enter your Google Analytics Tracking ID.
+Choose "Page View" as the track type.
+Add a new firing trigger. Choose the "All Pages" trigger.
+Save the tag and publish the changes.
