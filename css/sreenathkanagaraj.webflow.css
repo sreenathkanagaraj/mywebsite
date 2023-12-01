@@ -7276,6 +7276,8 @@ img {
   }
 
   .skill-photo {
+    display: flex;
+    flex-direction: column-reverse;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -7293,10 +7295,11 @@ img {
 
   .skill-info {
     position: relative;
-    width: 40%;
+    width: 100%;
     height: 65vh;
     margin-top: 75px;
     margin-bottom: 75px;
+    padding-right: 10px ;
     /* padding-right: 0px; */
     padding-left: 0px;
     -webkit-box-orient: horizontal;
@@ -7320,13 +7323,15 @@ img {
 
   .skill-info-sticky {
     position: relative;
+
+    gap: 3px;
     width: 80%;
     height: 100%;
     padding-top: 0vh;
   }
 
   .skill-info-text {
-    /* margin-bottom: 40px; */
+    margin-bottom: 40px;
   }
 
   .skill-work {
@@ -7849,7 +7854,7 @@ img {
   }
 
   .homepage {
-    font-size: 15px;
+    font-size: 13px;
   }
 
   .menu {
